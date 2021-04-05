@@ -7,3 +7,7 @@
 ## install docker
 
 [docker for windows](https://docs.docker.com/docker-for-windows/install/)
+
+## deep learning zero to all
+[youtube](https://www.youtube.com/playlist?list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv)
+[github](https://github.com/deeplearningzerotoall/PyTorch)
