@@ -11,3 +11,10 @@
 ## deep learning zero to all
 [youtube](https://www.youtube.com/playlist?list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv)
 [github](https://github.com/deeplearningzerotoall/PyTorch)
+
+## begin
+[github](https://github.com/deeplearningzerotoall/PyTorch/blob/master/docker_user_guide.md)
+docker start pt
+docker attach pt
+jupyter notebook --ip 0.0.0.0 --allow-root
+비밀번호 설정
