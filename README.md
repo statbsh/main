@@ -17,7 +17,7 @@
 2. [https://velog.io/@gyuho/Deeper-Look-at-GD](https://velog.io/@gyuho/Deeper-Look-at-GD)
 
 ## begin
-[github](https://github.com/deeplearningzerotoall/PyTorch/blob/master/docker_user_guide.md)
+[docker 설치](https://github.com/deeplearningzerotoall/PyTorch/blob/master/docker_user_guide.md)
 
 1. docker 열기 <br>
 2. cmd 창 열기 <br>
