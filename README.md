@@ -19,6 +19,7 @@
 ## begin
 [docker 설치](https://github.com/deeplearningzerotoall/PyTorch/blob/master/docker_user_guide.md)
 
+재부팅 후 
 1. docker 열기 <br>
 2. cmd 창 열기 <br>
 docker start pt <br>
