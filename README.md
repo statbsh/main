@@ -15,10 +15,10 @@
 ## begin
 [github](https://github.com/deeplearningzerotoall/PyTorch/blob/master/docker_user_guide.md)
 
+1. docker 열기
+2. cmd 창 열기
 docker start pt
-
 docker attach pt
-
 jupyter notebook --ip 0.0.0.0 --allow-root
-
 비밀번호 설정
+
