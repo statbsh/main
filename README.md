@@ -12,6 +12,10 @@
 [youtube](https://www.youtube.com/playlist?list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv)
 [github](https://github.com/deeplearningzerotoall/PyTorch)
 
+참고
+1. [파이토치로 시작하는 딥러닝](https://wikidocs.net/book/2788)
+2. [https://velog.io/@gyuho/Deeper-Look-at-GD](https://velog.io/@gyuho/Deeper-Look-at-GD)
+
 ## begin
 [github](https://github.com/deeplearningzerotoall/PyTorch/blob/master/docker_user_guide.md)
 
