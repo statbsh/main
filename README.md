@@ -27,3 +27,6 @@ docker attach pt <br>
 jupyter notebook --ip 0.0.0.0 --allow-root <br>
 비밀번호 설정
 
+
+## Implementing Gradient Descent
+[참고 링크](https://atmamani.github.io/projects/ml/gradient-descent-in-python/)
