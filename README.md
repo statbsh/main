@@ -38,5 +38,5 @@ label 마다 가중치 값을 줄 때 class를 사용하면 한 번만 가중치
 [참고 링크](https://cvml.tistory.com/10)
 
 #### nn.BCEWithLogitsLoss vs  nn.BCELoss
-logits -> nn.BCEWithLogitsLoss : sigmoid()를 없이
+logits -> nn.BCEWithLogitsLoss : sigmoid()를 없이 <br>
 logits -> sigmoid -> nn.BCELoss : sigmoid()를 받아야함
