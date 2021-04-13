@@ -40,3 +40,4 @@ label 마다 가중치 값을 줄 때 class를 사용하면 한 번만 가중치
 #### nn.BCEWithLogitsLoss vs  nn.BCELoss
 logits -> nn.BCEWithLogitsLoss : sigmoid()를 없이 <br>
 logits -> sigmoid -> nn.BCELoss : sigmoid()를 받아야함
+[참고 링크](https://discuss.pytorch.org/t/bceloss-vs-bcewithlogitsloss/33586/14)
