@@ -16,7 +16,7 @@
 2. cmd 창 열기 <br>
 docker start pt <br>
 docker attach pt <br>
-jupyter notebook --ip 0.0.0.0 --allow-root <br>
+jupyter notebook --ip 0.0.0.0 --allow-root (cmd에서 오른쪽 마우스 : 붙여넣기 가능) <br> 
 비밀번호 설정
 
 ## deep learning zero to all
