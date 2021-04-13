@@ -34,5 +34,5 @@ jupyter notebook --ip 0.0.0.0 --allow-root (cmd에서 오른쪽 마우스 : 붙�
 ### torch.nn vs torch.nn.functional
 torch.nn : class <br>
 torch.nn.functional : def
-label 마다 가중치 값을 줄 때 class를 사용하면 한 번만 가중치 값을 주면 되지만 def는 매번 loss를 계산할 때 줘야함
+label 마다 가중치 값을 줄 때 class를 사용하면 한 번만 가중치 값을 주면 되지만 def는 매번 loss를 계산할 때 줘야함 <br>
 [참고 링크](https://cvml.tistory.com/10)
