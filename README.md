@@ -41,3 +41,13 @@ label 마다 가중치 값을 줄 때 class를 사용하면 한 번만 가중치
 logits -> nn.BCEWithLogitsLoss : sigmoid()를 없이 <br>
 logits -> sigmoid -> nn.BCELoss : sigmoid()를 받아야함
 [참고 링크](https://discuss.pytorch.org/t/bceloss-vs-bcewithlogitsloss/33586/14)
+
+
+## git branch
+1. git clone한 파일 명 경로 지정 
+2. git branch : 확인
+3. git branch [name] : 생성
+4. git checkout [name] : 브랜치 전환
+5. git add . : 파일 staged
+6. git commit -m " " 
+7. git push origin [name]
